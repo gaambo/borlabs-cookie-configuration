@@ -3,11 +3,11 @@
 An extensive, multilingual configuration for [Borlabs Cookie](https://de.borlabs.io/borlabs-cookie/).
 Obviously an active, valid license is needed for this to work.
 
-✅ Multilingual: English and German translations
-✅ Many services configured (Google Analytics, Google Tag Manger, Facebook Pixel, LiveChat, Hotjar,...)
+✅ Multilingual: English and German translations  
+✅ Many services configured (Google Analytics, Google Tag Manger, Facebook Pixel, LiveChat, Hotjar,...)  
 ✅ Configured to be used with [Google Tag Manager](https://de.borlabs.io/kb/google-tag-manager-nutzen/
-)
-✅ Importable and configurable for your needs
+)  
+✅ Importable and configurable for your needs  
 
 When configuring Borlabs Cookie for multiple languages, it's kind of messy to manually duplicate all cookies/groups and delete their descriptions so the default texts get generated. Therefore when importing on of these files you get all default cookies in both (german + englisch) languages.
 
